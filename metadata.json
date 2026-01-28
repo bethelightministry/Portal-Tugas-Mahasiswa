@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sistem Pengumpulan Tugas Mahasiswa",
+  "description": "Platform digital untuk mahasiswa mengumpulkan jurnal, artikel, bedah buku, dan melakukan absensi online secara terintegrasi dengan dukungan asisten AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
